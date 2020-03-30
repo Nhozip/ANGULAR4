@@ -2,6 +2,6 @@
   "isExit": true,
   "showMoreApp": true,
   "idNew": "",
-  "fake":true,
+  "fake":false,
   "apps": []
 }
